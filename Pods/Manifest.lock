@@ -1,0 +1,18 @@
+PODS:
+  - SmartNotificationsSDK (1.3.0)
+  - SwiftyBeaver (1.5.1)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - SmartNotificationsSDK
+  - SwiftyBeaver
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  SmartNotificationsSDK: 69426d0219593b4a084a485c4e64251690ee7455
+  SwiftyBeaver: 4f74563624b2c1e821c522c54142b5dd5ebb0f30
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: 571d482776a63a727c3ab1050ccfdecb8e65674e
+
+COCOAPODS: 1.4.0

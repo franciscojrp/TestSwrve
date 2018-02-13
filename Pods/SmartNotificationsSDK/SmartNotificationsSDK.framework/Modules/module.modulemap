@@ -1,0 +1,11 @@
+framework module SmartNotificationsSDK {
+  umbrella header "SmartNotificationsSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module SmartNotificationsSDK.Swift {
+    header "SmartNotificationsSDK-Swift.h"
+    requires objc
+}
